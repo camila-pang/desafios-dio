@@ -1,1 +1,4 @@
-#Jogo Genius desenvolvido em Javascript :heart :heart :heart
+#Desafio Dio
+
+Jogo Genius desenvolvido em Javascript.
+
